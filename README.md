@@ -9,3 +9,6 @@
 ## Birch
 [Birch](Birch.ipynb)
 
+## DBSCAN
+[DBSCAN](dbscan.ipynb)
+
